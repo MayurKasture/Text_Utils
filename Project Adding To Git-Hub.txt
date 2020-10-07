@@ -19,7 +19,7 @@ TO UPDATE :--
 If You Change In Project Then
 > git status
 > git add .
->git commit "Added or Edit some files" 
+> git commit -m "Added or Edit some files" 
 > git push ogigin master
 
 *****************work successfull check repository*************** 
