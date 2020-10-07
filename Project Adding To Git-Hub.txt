@@ -1,0 +1,25 @@
+*****************git Access to Aur Pycharm Project*************** 
+
+01   touch .gitignore
+02   git config --global user.name Mayur
+03   git config --global user.email "mayurkasture93@gmil.com"
+04   touch .gitignore
+05   git init
+06   git add .
+07   git commit -m "Initial Commit"
+08   git status # Just to see
+09   git remote add origin git@github.com:MayurKasture/Text_Utils.git
+10   git push ogigin master (It may be not Work)
+11   ssh-keyg en -t  rsa -b 4096 -C "mayurKasture93@gmail.com"
+12   cat /c/Users/amd/.ssh/id_rsa.pub # It Generate SSH path Copy ANd Paste To Your Github>Settings>SSH and GPG Keys>Click on - Add Key
+13   git push ogigin master
+
+
+TO UPDATE :--
+If You Change In Project Then
+> git status
+> git add .
+>git commit "Added or Edit some files" 
+> git push ogigin master
+
+*****************work successfull check repository*************** 
